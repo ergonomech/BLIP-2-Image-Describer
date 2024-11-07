@@ -1,0 +1,4 @@
+gradio==5.5.0
+torch>2.4.1  # Ensure a version that supports Apple Metal (MPS) and OpenCL
+transformers>4.28.1
+Pillow>9.4.0
